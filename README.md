@@ -1,4 +1,4 @@
-# Is-Odd and Is-Even as a Service  _(oeaas)_
+# Is-Odd and Is-Even as a Service _(oeaas)_
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 ![GitHub Repo stars](https://img.shields.io/github/stars/bs2kbs2k/oeaas?style=flat-square)
@@ -15,6 +15,7 @@ If you want to deploy OEaaS yourself, use [wrangler](https://github.com/cloudfla
 There are two simple endpoints: `https://oeaas.bs2k.me/is-even/:num` and `https://oeaas.bs2k.me/is-odd/:num`.
 
 cURL examples:
+
 ```sh
 # Expected: {"result":true,"err":false}
 curl https://oeaas.bs2k.me/is-even/42
