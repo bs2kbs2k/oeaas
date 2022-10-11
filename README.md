@@ -1,4 +1,4 @@
-# Is-Odd and Is-Even as a Service  _(OEaaS)_
+# Is-Odd and Is-Even as a Service  _(oeaas)_
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 ![GitHub Repo stars](https://img.shields.io/github/stars/bs2kbs2k/oeaas?style=flat-square)
