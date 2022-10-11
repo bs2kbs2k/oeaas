@@ -30,6 +30,7 @@ curl https://oeaas.bs2k.me/is-even/1
 ## Contributing
 
 PRs accepted.
+Please use [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for Pull Requests.
 
 Small note: If editing the README, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
 
