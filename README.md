@@ -4,7 +4,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/bs2kbs2k/oeaas?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/bs2kbs2k/oeaas?style=flat-square)
 
-A cloud-based, distributed version of is-even and is-odd
+A cloud-based, distributed version of is-even and is-odd.
 
 ## Install
 
