@@ -39,7 +39,7 @@ router.get('/is-even/:num', ({ params }) => {
 	}
 });
 
-router.get('/odd/:num', ({ params }) => {
+router.get('/is-odd/:num', ({ params }) => {
 	if (typeof params == 'undefined') {
 		return new Response(JSON.stringify({
 			result: null,
